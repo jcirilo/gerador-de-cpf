@@ -3,7 +3,7 @@
 > **Importante!**
 > No momento a aplicação só está disponível para o Windows e só pode ser executada no terminal, entretanto, o código está aberto para a comunidade.
 
-**1 -** Baixe a última versão do executável
+**1 -** Baixe a última versão do executável [aqui](https://github.com/JVSCirilo/gerador-de-cpf/releases/tag/v0.0.1-2)
 
 **2 -** Execute
 
