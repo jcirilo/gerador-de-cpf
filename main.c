@@ -124,6 +124,8 @@ int main()
             printf(ANSI_COLOR_RED"");
             printf("\nError! Estado invalido: %d, exit -1", estado_int);
             printf(ANSI_COLOR_RESET"\n\n");
+            system("PAUSE");
+
             exit(-1);
         }
     }
@@ -198,5 +200,7 @@ int main()
 
     printf(ANSI_COLOR_RESET"\n\n");
  
+    system("PAUSE");
+
     return 0;
 }
