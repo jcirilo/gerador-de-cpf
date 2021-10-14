@@ -7,4 +7,4 @@
 - 1 Execute
 - 1 Digite a sigla de um dos estados brasileiros no qual o CPF será gerado m maiúsculo sem espaço, ex.: "AM", "PB", "SP", etc.
 
-![Imagem teste](screenshots/test.png)
+![Imagem demonstração](screenshots/test.png)
