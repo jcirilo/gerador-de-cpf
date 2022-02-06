@@ -1,9 +1,9 @@
 # Gerador de CPF
 ## Como usar?
-> **Aviso!**
-> No momento a aplicação só está disponivel para Windows
 
-1. Baixe a última versão do executável - [Download](https://github.com/JVSCirilo/gerador-de-cpf/releases/tag/v0.0.1-2)
+A aplicação está disponível apenas para Windows
+
+1. Baixe a última versão do executável [(Download aqui)](https://github.com/JVSCirilo/gerador-de-cpf/releases/tag/v0.0.1-2)
 
 1. Inicie
 
